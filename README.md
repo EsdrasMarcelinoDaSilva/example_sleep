@@ -16,4 +16,5 @@ O script calculator_update oferece um menu interativo para que o usuário escolh
 4. Execute os script com o comando:
      
 python calculator.py
+
 python calculator_update.py
