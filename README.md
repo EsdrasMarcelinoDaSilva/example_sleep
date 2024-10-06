@@ -1,0 +1,1 @@
+Este script Python mostra três diferentes abordagens para iterar sobre uma sequência de números, ignorando o número 13 e pausando um segundo entre cada impressão. Ele demonstra o uso da estrutura while, for e uma simulação de do-while.
