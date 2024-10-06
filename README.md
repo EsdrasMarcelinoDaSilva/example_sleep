@@ -13,4 +13,7 @@ O script calculator_update oferece um menu interativo para que o usuário escolh
 1. Clone este repositório ou baixe o arquivo do script.
 2. Abra um terminal (ou prompt de comando).
 3. Navegue até o diretório onde o script está localizado.
-4. Execute os script com o comando:  python calculator.py e  python calculator_update.py
+4. Execute os script com o comando:
+     
+python calculator.py
+python calculator_update.py
