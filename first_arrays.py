@@ -10,6 +10,10 @@ print("Anos de Nascimento:", birth_years[2], birth_years[6], birth_years[9])
 
 list_products = ['máscaras faciais', 'batons', 'esmaltes', 'perfumes', 'loções', 'xampus', 'sabonetes', 'delineadores']
 
+list_products.append('shampoo')
+list_products.append('creme')
+list_products.pop(0)
+
 for i in range(len(list_products)):
     print(list_products[i])
     
