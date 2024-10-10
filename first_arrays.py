@@ -7,3 +7,7 @@ print("Produtos da Loja de Comida:", food_store_products)
 
 print("Anos de Nascimento:", len(birth_years), "itens na lista")
 print("Anos de Nascimento:", birth_years[2], birth_years[6], birth_years[9])
+
+for i in range(len(birth_years)):
+    print(birth_years[0])
+    break
